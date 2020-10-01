@@ -2,6 +2,7 @@
 
 Implemented the notify code (https://github.com/SakthivelPunniakodi/react-notify.git)
 
+## `npm i`
 
 ### `npm start`
 
